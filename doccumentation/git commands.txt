@@ -1,0 +1,4 @@
+git help -a
+git help -g
+man git forward-merge
+https://www.atlassian.com/git/tutorials/syncing
